@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "id": "dhwyKiduiu1831HuxqoepqIx",
+      "email": "lollipop@gmail.com",
+      "role": "user",
+      "username": "lollipop",
+      "password": "lollipop"
+    },
+    {
+      "id": "dhwyKiduiu1831Huxqoepqyy",
+      "email": "versitani@gmail.com",
+      "role": "admin",
+      "username": "versitani",
+      "password": "versitani"
+    }
+  ]
+}
